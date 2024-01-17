@@ -38,8 +38,11 @@ Insights and Recommendations: Summarizing conclusions and offering recommendatio
 To run the project locally, follow these steps:
 
 Clone the repository: git clone [repository_url]
+
 Install the required dependencies: pip install -r requirements.txt
+
 Execute the Jupyter Notebooks in the specified order.
+
 Feel free to explore, analyze, and visualize the data, contributing to a deeper understanding of Airbnb listings in London. Happy coding!
 
 Note: Please ensure you comply with Airbnb's data usage policies when working with the dataset.
