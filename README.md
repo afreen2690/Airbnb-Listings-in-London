@@ -1,4 +1,4 @@
-# Analysis-of-Airbnb-Listings-in-London
+# Analysis of Airbnb Listings in London
 
 
 # Introduction
