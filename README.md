@@ -34,14 +34,6 @@ Exploratory Data Analysis (EDA): Exploring data patterns and relationships.
 Data Visualization: Creating visualizations to present key findings.
 Insights and Recommendations: Summarizing conclusions and offering recommendations based on the analysis.
 
-# Getting Started
-To run the project locally, follow these steps:
-
-Clone the repository: git clone [repository_url]
-
-Install the required dependencies: pip install -r requirements.txt
-
-Execute the Jupyter Notebooks in the specified order.
 
 Feel free to explore, analyze, and visualize the data, contributing to a deeper understanding of Airbnb listings in London. Happy coding!
 
